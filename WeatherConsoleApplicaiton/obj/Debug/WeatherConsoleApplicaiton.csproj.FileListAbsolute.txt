@@ -1,0 +1,11 @@
+C:\Users\amush\source\repos\newfile\test\WeatherConsoleApplicaiton\bin\Debug\WeatherConsoleApplicaiton.exe.config
+C:\Users\amush\source\repos\newfile\test\WeatherConsoleApplicaiton\bin\Debug\WeatherConsoleApplicaiton.exe
+C:\Users\amush\source\repos\newfile\test\WeatherConsoleApplicaiton\bin\Debug\WeatherConsoleApplicaiton.pdb
+C:\Users\amush\source\repos\newfile\test\WeatherConsoleApplicaiton\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amush\source\repos\newfile\test\WeatherConsoleApplicaiton\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amush\source\repos\newfile\test\WeatherConsoleApplicaiton\obj\Debug\WeatherConsoleApplicaiton.csproj.AssemblyReference.cache
+C:\Users\amush\source\repos\newfile\test\WeatherConsoleApplicaiton\obj\Debug\WeatherConsoleApplicaiton.csproj.SuggestedBindingRedirects.cache
+C:\Users\amush\source\repos\newfile\test\WeatherConsoleApplicaiton\obj\Debug\WeatherConsoleApplicaiton.csproj.CoreCompileInputs.cache
+C:\Users\amush\source\repos\newfile\test\WeatherConsoleApplicaiton\obj\Debug\WeatherConsoleApplicaiton.csproj.CopyComplete
+C:\Users\amush\source\repos\newfile\test\WeatherConsoleApplicaiton\obj\Debug\WeatherConsoleApplicaiton.exe
+C:\Users\amush\source\repos\newfile\test\WeatherConsoleApplicaiton\obj\Debug\WeatherConsoleApplicaiton.pdb
