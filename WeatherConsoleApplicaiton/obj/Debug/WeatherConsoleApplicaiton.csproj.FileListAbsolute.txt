@@ -9,3 +9,14 @@ C:\Users\amush\source\repos\newfile\test\WeatherConsoleApplicaiton\obj\Debug\Wea
 C:\Users\amush\source\repos\newfile\test\WeatherConsoleApplicaiton\obj\Debug\WeatherConsoleApplicaiton.csproj.CopyComplete
 C:\Users\amush\source\repos\newfile\test\WeatherConsoleApplicaiton\obj\Debug\WeatherConsoleApplicaiton.exe
 C:\Users\amush\source\repos\newfile\test\WeatherConsoleApplicaiton\obj\Debug\WeatherConsoleApplicaiton.pdb
+C:\Users\amush\Desktop\Новая папка\test\WeatherConsoleApplicaiton\bin\Debug\WeatherConsoleApplicaiton.exe.config
+C:\Users\amush\Desktop\Новая папка\test\WeatherConsoleApplicaiton\bin\Debug\WeatherConsoleApplicaiton.exe
+C:\Users\amush\Desktop\Новая папка\test\WeatherConsoleApplicaiton\bin\Debug\WeatherConsoleApplicaiton.pdb
+C:\Users\amush\Desktop\Новая папка\test\WeatherConsoleApplicaiton\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amush\Desktop\Новая папка\test\WeatherConsoleApplicaiton\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amush\Desktop\Новая папка\test\WeatherConsoleApplicaiton\obj\Debug\WeatherConsoleApplicaiton.csproj.AssemblyReference.cache
+C:\Users\amush\Desktop\Новая папка\test\WeatherConsoleApplicaiton\obj\Debug\WeatherConsoleApplicaiton.csproj.SuggestedBindingRedirects.cache
+C:\Users\amush\Desktop\Новая папка\test\WeatherConsoleApplicaiton\obj\Debug\WeatherConsoleApplicaiton.csproj.CoreCompileInputs.cache
+C:\Users\amush\Desktop\Новая папка\test\WeatherConsoleApplicaiton\obj\Debug\WeatherConsoleApplicaiton.csproj.CopyComplete
+C:\Users\amush\Desktop\Новая папка\test\WeatherConsoleApplicaiton\obj\Debug\WeatherConsoleApplicaiton.exe
+C:\Users\amush\Desktop\Новая папка\test\WeatherConsoleApplicaiton\obj\Debug\WeatherConsoleApplicaiton.pdb

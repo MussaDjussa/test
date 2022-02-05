@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Net;
 using Newtonsoft.Json;
@@ -42,7 +43,47 @@ namespace WeatherConsoleApplicaiton
                 Console.WriteLine("Скорость ветра: " + ow.wind.Speed);
                 Console.WriteLine("Описание Погоды: " + ow.weather[0].Description);
                 Console.WriteLine();
+                Console.WriteLine("Запись в файл... Файл будет создан на рабочем столе!");
+
+                List<OpenWeather> collection = new List<OpenWeather>();
+
+                collection.Add(ow);
+
+                string getDekstop = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
+
+
+                string getNameFile = getDekstop + "\\weather.txt";
+
+                if (File.Exists(getNameFile))
+                {
+                    Method();
+                }
+                else
+                {
+                    File.Create(getNameFile);
+                    Method();
+
+                }
+                 void Method()
+                {
+                    using (StreamWriter streamWriter = new StreamWriter($"C://Users//{Environment.UserName}//Desktop//weather.txt", true, System.Text.Encoding.Default))
+                    {
+
+                        streamWriter.WriteLine("Город: " + ow.Name);
+                        streamWriter.WriteLine("Температура: " + ow.main.Temperature);
+                        streamWriter.WriteLine("Давление: " + ow.main.Pressure);
+                        streamWriter.WriteLine("Влажность: " + ow.main.Humidity);
+                        streamWriter.WriteLine("Скорость ветра: " + ow.wind.Speed);
+                        streamWriter.WriteLine("Описание Погоды: " + ow.weather[0].Description);
+                        streamWriter.WriteLine();
+                        streamWriter.Dispose();
+                        streamWriter.Close();
+                    }
+                }
             }
+
+
+
         }
     }
 }
